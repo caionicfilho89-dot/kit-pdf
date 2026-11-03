@@ -1,0 +1,9 @@
+# cache do Python
+__pycache__/
+*.pyc
+
+# saídas de teste
+*_menor.pdf
+*_girado.pdf
+*_extraido.pdf
+juntado.pdf
